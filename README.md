@@ -2,8 +2,8 @@
 - 👀 I’m interested in Web development and design
 - 🌱 I’m currently learning CSS AND JAVASCRIPT 
 - 💞️ I’m looking to collaborate on WEB DEVELOPMENT PROJECTS
-- 📫 How to reach me enwongoenwongo@gmail.com or 09041815513
-- 😄 Pronouns: ...
+- 📫 How to reach me enwongoebong@gmail.com or 09041815513
+- 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: ...
 
 <!---
